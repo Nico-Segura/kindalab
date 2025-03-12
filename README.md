@@ -49,7 +49,7 @@ Este proyecto implementa un **sistema de gestión de ascensores** con soporte pa
 
 ### 1️⃣ **Clonar el repositorio**
 ```bash
-git clone https://github.com/tu-usuario/elevator-system.git
+git clone https://github.com/Nico-Segura/kindalab
 cd elevator-system
 ```
 
